@@ -1,0 +1,31 @@
+Êþº¾   > -   )com/greatlearning/emailapp/model/Employee   java/lang/Object 	firstName Ljava/lang/String; lastName dept  emailId passWord getFirstName ()Ljava/lang/String; Code	     LineNumberTable LocalVariableTable this +Lcom/greatlearning/emailapp/model/Employee; setFirstName (Ljava/lang/String;)V <init> '(Ljava/lang/String;Ljava/lang/String;)V
+     ()V	      
+getLastName 
+setLastName  getDept	  !    setDept 
+getEmailId	  % 	  
+setEmailId 
+getPassWord	  ) 
+  
+setPassWord 
+SourceFile 
+Employee.java !                       	     
+    
+  
+   
+   /     *´ °                            
+   >     *+µ ±       
+                             
+   Y     *· *+µ *,µ ±              	                                  
+   /     *´ °           #                 
+   >     *+µ ±       
+    (  )                        
+   /     *´  °           -              "   
+   >     *+µ  ±       
+    2  3                    #   
+   /     *´ $°           7              &   
+   >     *+µ $±       
+    <  =                	    '   
+   /     *´ (°           A              *   
+   >     *+µ (±       
+    F  G                
+    +    ,
